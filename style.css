@@ -888,3 +888,17 @@ body {
 .social-login__icon:hover {
 	transform: scale(1.5);	
 }
+/* ------------------------------------------------------------------------ */
+.cards{
+    width: 20%;
+    background-color: #302851;
+}
+.image img{
+    width: 100%;
+}
+.title{
+    text-align: center;
+}
+.des{
+    text-align: center;
+}
